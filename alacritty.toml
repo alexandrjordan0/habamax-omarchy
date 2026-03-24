@@ -1,0 +1,80 @@
+# ~/.config/alacritty/alacritty.toml
+# Habamax Unified - Sjednocené šedé téma
+
+[colors]
+
+# ===============================
+# Primary (Základní barvy Habamax)
+# ===============================
+[colors.primary]
+background     = "#1c1c1c"
+foreground     = "#bcbcbc"
+dim_foreground = "#808080"
+bright_foreground = "#eeeeee"
+
+# ===============================
+# Cursor (Bílá pro kontrast)
+# ===============================
+[colors.cursor]
+text   = "#1c1c1c"
+cursor = "#ffffff"
+
+[colors.vi_mode_cursor]
+text   = "#1c1c1c"
+cursor = "#ffffff"
+
+# ===============================
+# Search / Selection (Výraznější šedá)
+# ===============================
+[colors.search.matches]
+foreground = "#1c1c1c"
+background = "#808080"
+
+[colors.search.focused_match]
+foreground = "#1c1c1c"
+background = "#bcbcbc"
+
+[colors.selection]
+text       = "#1c1c1c"
+background = "#585858"
+
+# ===============================
+# Normal ANSI Colors (Habamax paleta)
+# ===============================
+[colors.normal]
+black   = "#1c1c1c"
+red     = "#af5f5f" # Habamax red (tlumená)
+green   = "#5f875f" # Habamax green
+yellow  = "#afaf5f" # Habamax yellow
+blue    = "#5f87af" # Habamax blue
+magenta = "#af5faf"
+cyan    = "#5fafaf"
+white   = "#bcbcbc"
+
+# ===============================
+# Bright ANSI Colors (Světlé varianty)
+# ===============================
+[colors.bright]
+black   = "#444444"
+red     = "#ff8787"
+green   = "#87af87"
+yellow  = "#ffff87"
+blue    = "#87afff"
+magenta = "#ff87ff"
+cyan    = "#87ffff"
+white   = "#ffffff"
+
+# ===============================
+# Footer / Hints
+# ===============================
+[colors.footer_bar]
+foreground = "#bcbcbc"
+background = "#262626"
+
+[colors.hints.start]
+foreground = "#1c1c1c"
+background = "#afaf5f"
+
+[colors.hints.end]
+foreground = "#1c1c1c"
+background = "#bcbcbc"
