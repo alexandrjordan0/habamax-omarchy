@@ -1,11 +1,11 @@
-# Habamax Unified (Omarchy Theme)
+# Habamax (Omarchy Theme)
 
 A minimalist, high-contrast grayscale theme for Omarchy Linux. This theme focuses on clarity and long-term coding comfort by unifying your entire system under the iconic **Habamax** aesthetic.
 
 ## Credits & Heritage
 
 This theme is not built from scratch. It is a visual unification and port based on:
-1.  **[Omacarchy](https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme)** by **RiO7MAKK3R** – Used as the core framework, configuration templates, and structural base.
+1.  **[Omacarchy](https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme)** – Used as the core framework, configuration templates, and structural base.
 2.  **[Habamax.nvim](https://github.com/ntpeters/vim-habamax)** – The original color palette and inspiration for the legendary high-contrast dark-gray look.
 
 ## Features
@@ -13,7 +13,7 @@ This theme is not built from scratch. It is a visual unification and port based 
 * **Official Habamax Palette**: Uses the authentic `#1c1c1c` background and `#bcbcbc` foreground for perfect consistency.
 * **Unified UI**: Identical colors across **Alacritty**, **Neovim**, **Waybar**, **Mako**, and **Walker**.
 * **Reduced Distractions**: 
-    * Window opacity increased to `0.95` (active) and `0.85` (inactive).
+    * Window opacity set to `0.99` (active) and `0.95` (inactive) for a subtle focus.
     * Minimalist status lines and borders.
     * Syntactic highlighting follows the "less is more" Habamax philosophy.
 * **Custom Backgrounds**: Includes curated dark-themed wallpapers (`habamax-1.jpg`, `habamax-2.jpg`).
@@ -29,10 +29,10 @@ This theme is not built from scratch. It is a visual unification and port based 
 
 1.  Clone this repository into your Omarchy themes folder:
     ```bash
-    git clone https://github.com/alexandrjordan0/habamax-omarchy.git
+    git clone [https://github.com/alexandrjordan0/habamax-omarchy](https://github.com/alexandrjordan0/habamax-omarchy) ~/.config/omarchy/themes/habamax
     ```
 2.  Open **Omarchy Menu** (`Super + Alt + Space`).
-3.  Navigate to `Style` > `Theme` and select **habamax-unified**.
+3.  Navigate to `Style` > `Theme` and select **habamax**.
 
 ## Suggested Fonts
 
@@ -43,4 +43,4 @@ For the best experience, use a clean monospace font:
 
 ## License & Legal
 
-As the upstream project **Omacarchy** does not provide a specific license file, this theme is distributed in the spirit of the open-source ricing community. Please respect the original authors mentioned above if you decide to further modify or redistribute this work.
+This theme is distributed in the spirit of the open-source ricing community. Please respect the original authors mentioned above if you decide to further modify or redistribute this work.
