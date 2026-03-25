@@ -29,7 +29,7 @@ This theme is not built from scratch. It is a visual unification and port based 
 
 1.  Clone this repository into your Omarchy themes folder:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/habamax-unified](https://github.com/YOUR_USERNAME/habamax-unified) ~/.config/omarchy/themes/habamax-unified
+    git clone https://github.com/alexandrjordan0/habamax-omarchy.git
     ```
 2.  Open **Omarchy Menu** (`Super + Alt + Space`).
 3.  Navigate to `Style` > `Theme` and select **habamax-unified**.
