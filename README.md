@@ -1,8 +1,8 @@
 # Habamax (Omarchy Theme)
 
 A minimalist, high-contrast grayscale theme for Omarchy Linux. This theme focuses on clarity and long-term coding comfort by unifying your entire system under the iconic **Habamax** aesthetic.
-<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/0217d059-5ea8-450f-841f-1dd12d3b6873" />
 
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/0217d059-5ea8-450f-841f-1dd12d3b6873" />
 
 ## Credits & Heritage
 
@@ -31,7 +31,7 @@ This theme is not built from scratch. It is a visual unification and port based 
 
 1.  Clone this repository into your Omarchy themes folder:
     ```bash
-    git clone [https://github.com/alexandrjordan0/habamax-omarchy](https://github.com/alexandrjordan0/habamax-omarchy) ~/.config/omarchy/themes/habamax
+    git clone https://github.com/alexandrjordan0/habamax-omarchy.git ~/.config/omarchy/themes/habamax
     ```
 2.  Open **Omarchy Menu** (`Super + Alt + Space`).
 3.  Navigate to `Style` > `Theme` and select **habamax**.
