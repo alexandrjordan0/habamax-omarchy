@@ -1,7 +1,7 @@
 # Habamax (Omarchy Theme)
 
 A minimalist, high-contrast grayscale theme for Omarchy Linux. This theme focuses on clarity and long-term coding comfort by unifying your entire system under the iconic **Habamax** aesthetic.
-<img width="3200" height="1996" alt="image" src="https://github.com/user-attachments/assets/d19d0770-d8a2-4e3c-8c31-d3f3bc89a89a" />
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/0217d059-5ea8-450f-841f-1dd12d3b6873" />
 
 
 ## Credits & Heritage
