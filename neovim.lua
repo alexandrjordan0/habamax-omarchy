@@ -15,10 +15,10 @@ if vim.fn.exists("syntax_on") == 1 then
 end
 
 -- ── Terminal palette (colors 0-15) ───────────────────────────────────────────
-vim.g.terminal_color_0 = "#1c1c1c"
-vim.g.terminal_color_1 = "#d70000"
+vim.g.terminal_color_0 = "#1c1c1c" -- gray
+vim.g.terminal_color_1 = "#d70000" -- red
 vim.g.terminal_color_2 = "#5faf5f"
-vim.g.terminal_color_3 = "#af875f"
+vim.g.terminal_color_3 = "#af875f" -- orange
 vim.g.terminal_color_4 = "#5f87af"
 vim.g.terminal_color_5 = "#af87af"
 vim.g.terminal_color_6 = "#5f8787"
