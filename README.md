@@ -28,7 +28,10 @@ This theme is not built from scratch. It is a visual unification and port based 
 * **Waybar**: Clean, white-on-dark top bar with zero bloat.
 
 ## Installation
-
+```bash
+   omarchy-theme-install https://github.com/alexandrjordan0/habamax-omarchy.git
+```
+### OR
 1.  Clone this repository into your Omarchy themes folder:
     ```bash
     git clone https://github.com/alexandrjordan0/habamax-omarchy.git ~/.config/omarchy/themes/habamax
